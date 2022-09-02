@@ -1,2 +1,1 @@
-Utiliser le navigateur pour cause  de blocage du fchier json.
-Test Cors
+Réaliser avec le tuto Graven. A garder pour la mise en forme générale.
