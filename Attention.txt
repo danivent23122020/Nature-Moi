@@ -1,0 +1,2 @@
+Utiliser le navigateur pour cause  de blocage du fchier json.
+Test Cors
